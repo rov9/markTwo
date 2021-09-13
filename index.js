@@ -20,8 +20,8 @@ var questions = [{
   question: "How many Infinity Stones are there?",
   answer: "six"
 }, {
-  question: "What's Thor's hammer called?",
-  answer: "Mjolnir"
+  question: "Thor’s Mjolnir is made from the metal of a dying ___?",
+  answer: "Star"
 },
 {
   question: "What type of doctor is Doctor Strange?",
