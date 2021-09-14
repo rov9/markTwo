@@ -8,7 +8,7 @@ var player = c.question("Please enter your name: ");
 // processing 
 var welcomeMessage = `Hey! ${player} good to have you here!`;
 
-// output
+//Output
 console.log(welcomeMessage);
 
 
